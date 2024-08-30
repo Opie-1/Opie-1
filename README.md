@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Opie-1
+- 👋 Hi, I’m Alex!
 - 👀 I’m interested in learning how to use Github
 - 🌱 I’m currently learning how to use Github!
 - 💞️ I’m looking to collaborate on a cool coding project
